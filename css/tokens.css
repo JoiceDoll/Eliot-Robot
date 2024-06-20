@@ -1,0 +1,12 @@
+:root {
+  --background-primary: #1f1f6e;
+  --background-secondary: #011112;
+  --blue-color-primary: #017b80;
+  --blue-color-secondary: #182a47;
+  --blue-color-tertiary: #03e4ec;
+  --white-color-primary: #fff;
+  --white-color-secondary: #d9dbdb;
+  --shadow-blue-primary: rgba(4, 202, 209, 0.4);
+  --shadow-blue-secondary: rgba(3, 228, 236, 0.1);
+  --shadow-body-robot: #0000006d;
+}

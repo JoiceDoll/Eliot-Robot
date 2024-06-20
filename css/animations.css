@@ -1,0 +1,17 @@
+@keyframes shadow {
+    from {
+      width: 100%;
+    }
+    to {
+      width: 90%;
+    }
+  }
+  
+  @keyframes robot {
+    from {
+      padding-top: 0;
+    }
+    to {
+      padding-top: 20px;
+    }
+  }
