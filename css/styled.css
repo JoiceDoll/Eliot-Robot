@@ -8,8 +8,8 @@ body {
 
 .robot-container {
   height: 80vh;
-  width: 20%;
-  padding: 20px;
+  width: 200px;
+  /* padding: 20px; */
   display: flex;
   align-items: center;
   justify-content: center;
@@ -78,6 +78,7 @@ body {
   width: 100%;
   height: 80%;
   display: flex;
+  justify-content: center;
   gap: 10px;
 }
 
