@@ -21,6 +21,7 @@ if (!speechRecognitionList || !recognition) {
 
   recognition.onerror = (event) => {
     console.error("Ocorreu um erro no reconhecimento: " + event.error);
+    recognition.stop();
   };
 
   recognition.onend = () => {
